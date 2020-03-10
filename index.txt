@@ -1,0 +1,9 @@
+Ts 是微软的开发的一个编程语言。
+TypeScript是js的超集，遵循最新的ES5\6规范，ts 扩展了 js 的语法。
+ts  更向后端java c#面向对象语言
+
+
+配置自动编译生成js
+
+1. tsc --init  生成  tsconfig.json文件
+2.点击 终端 -> 运行任务 -> tsc监视 
